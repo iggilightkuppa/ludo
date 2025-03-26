@@ -1,0 +1,3 @@
+githubの画像rawfileはmainブランチ/images/dicefront_01.pngなら
+https://raw.githubusercontent.com/iggilightkuppa/ludo/main/images/dicefront_01.png
+のようなところにある
