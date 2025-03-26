@@ -1,3 +1,7 @@
+function advance_the_game() {
+  RollDice();
+}
+
 function RollDice() {
   //  スプレッドシートの読み込み
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
